@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alaa Shaheen</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
-I am currently studying Full Stack developer, I hold a Bachelor’s degree in Mathematics  I usually feel a lot of pleasure while studying things that require thinking, logical analysis, solving problems, and finding the simplest and easiest solutions to apply, so I find great pleasure in studying programming and always strive to learn more
-
+***I am currently studying Full Stack developer, I hold a Bachelor’s degree in Mathematics  I usually feel a lot of pleasure while studying things that require thinking, logical analysis, solving problems, and finding the simplest and easiest solutions to apply, so I find great pleasure in studying programming and always strive to learn more***
 
 <p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="coding" width=500> </p>
 
@@ -12,6 +11,7 @@ I am currently studying Full Stack developer, I hold a Bachelor’s degree in Ma
 <p align="left"> <a href="https://twitter.com/alaashaheen93" target="blank"><img src="https://img.shields.io/twitter/follow/alaashaheen93?logo=twitter&style=for-the-badge" alt="alaashaheen93" /></a> </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alaashaheen2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alaa-shaheen-879140240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alaashaheen2.github.io/MyCV/) 
+<hr>
 <br>
 
 - 🔭 I’m currently available for hire and open to new job opportunities, send me a mail (alaa.m.shaheen22@gmail.com) 
@@ -33,6 +33,7 @@ I am currently studying Full Stack developer, I hold a Bachelor’s degree in Ma
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+                                          
 <h3>Frameworks, Platforms and Libraries<h3>
 
 
@@ -73,16 +74,14 @@ I am currently studying Full Stack developer, I hold a Bachelor’s degree in Ma
 </a>
 <hr>
 
-<br>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/alaashaheen93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaashaheen93" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alaa shaheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa shaheen" height="30" width="40" /></a>
 </p>
-  
+<hr>
   <details>
-<br>
 <br>
 	<summary><b>🧲 GitHub Graph</b></summary>
 	<img src="https://activity-graph.herokuapp.com/graph?username=AlaaShaheen2&theme=minimal" />
